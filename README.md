@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranshu Namdeo
 - 👀 I’m interested in everthing related to computers
-- 🌱 I’m currently learning java and pyhton
+- 🌱 I’m currently learning java and python 🐍
 
 <!---
 namdpran8/namdpran8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
